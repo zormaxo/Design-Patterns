@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace CovarianceAndContravarianceSample
 {
+    //https://www.youtube.com/watch?v=oXaxL0A9VNg&list=LL&index=4
     public class Animal
     {
         public void Eat() => Console.WriteLine("Eat");
